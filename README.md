@@ -79,6 +79,14 @@ Projeto de uma loja virtual atualmente em desenvolvimento, criado com o objetivo
 
 ---
 
+### 🎮 Vanta Arena
+Plataforma web desenvolvida para gerenciamento de campeonatos amadores de Counter-Strike 2, com estatísticas de jogadores, rankings, equipes, partidas, tabelas de classificação e notícias. Projeto em desenvolvimento utilizando HTML, CSS, JavaScript e Supabase.
+
+🚧 **Em desenvolvimento**
+
+🔗 [Ver projeto no GitHub](https://github.com/VictorHugodeSousa/Vanta-Arena.git)
+
+---
 
 ### 📊 Estatísticas
 
