@@ -84,7 +84,7 @@ Plataforma web desenvolvida para gerenciamento de campeonatos amadores de Counte
 
 🚧 **Em desenvolvimento**
 
-🔗 [Ver projeto no GitHub]([https://github.com/VictorHugodeSousa/Vanta-Arena.git](https://github.com/VictorHugodeSousa/Vanta-Arena/tree/main/Vanta%20Arena))
+🔗 [Ver projeto no GitHub](https://github.com/VictorHugodeSousa/Vanta-Arena/tree/main/Vanta%20Arena)
 
 ---
 
